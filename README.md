@@ -20,6 +20,10 @@ This Plugin is not English.
 それを右クリックするとGUIが開き、アイテムやペットが選べます。
 権限がないプレイヤーはアイテムやペットは選べないようになってます。
 
+## コマンド
+
+/toyと入力するとGUIが出現します。
+
 協力 Shin_Minecraft https://github.com/Shin-Ideal 
 製作 kuyanball https://github.com/kuyanball
 
