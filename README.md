@@ -24,6 +24,8 @@ This Plugin is not English.
 
 /toyと入力するとGUIが出現します。
 
+## 製作、協力
+
 協力 Shin_Minecraft https://github.com/Shin-Ideal 
 製作 kuyanball https://github.com/kuyanball
 
